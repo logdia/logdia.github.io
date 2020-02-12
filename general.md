@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "General"
+title: General
 permalink: //general//
 ---
