@@ -1,3 +1,3 @@
 layout: page
 title: "General"
-permalink: /general/
+permalink: //general//
