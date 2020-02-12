@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Random Thoughts"
-permalink: //random_thoughts//
+permalink: /random_thoughts/
 ---
