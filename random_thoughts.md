@@ -2,5 +2,5 @@
 layout: page
 title: "Random Thoughts"
 permalink: /random_thoughts/
-theme: jekyll-theme-merlot
+theme: merlot
 ---

@@ -2,6 +2,6 @@
 layout: page
 title: "General"
 permalink: /general/
-theme: jekyll-theme-merlot
+theme: merlot
 ---
 # General
